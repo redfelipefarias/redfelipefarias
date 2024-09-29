@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/727314059904548927/1290078270578229338/LUFFYGEAR5.gif?ex=66fb2684&is=66f9d504&hm=c3eea6e1662a40cbf94e2467ed1048cd9d807a8886f87160a214e1aff7a50026&=">
+  <img align="right" alt="AMIGOS GAMES" src="https://discord.com/channels/727314059904548924/727314059904548927/1290078270687023186">
 </div>
 
 ##
