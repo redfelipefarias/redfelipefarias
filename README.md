@@ -1,8 +1,8 @@
-## Olá! Eu sou Redfelipefarias
+## Olá! Eu sou Lucas Felipe
 
-- 🔭 Hoje eu trabalho como Jovem Aprendiz na empresa RV Ímola
-- 🌱 Estudando Desenvolvimento de Sistemas
-- 📫 Contate-me pelo E-mail: redfelipefarias@hotmail.com
+- 🔭 Hoje eu trabalho como auxiliar logístico, mas pretendo atuar na área da tecnologia
+- 🌱 Estudando Ciência da Computação
+- 📫 Contate-me pelo E-mail: redfelipefarias@gmail.com
 - 😄 Pronomes: Ele/dele
 - ⚡ Curiosidades: Meu anime preferido é One Piece
 
