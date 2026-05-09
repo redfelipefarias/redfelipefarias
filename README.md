@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lucas Felipe
 
-- 🔭 Hoje eu trabalho como auxiliar logístico, mas pretendo atuar na área da tecnologia
+- 🔭 Buscando uma oportunidade.
 - 🌱 Estudando Ciência da Computação
 - 📫 Contate-me pelo E-mail: redfelipefarias@gmail.com
 - 😄 Pronomes: Ele/dele
